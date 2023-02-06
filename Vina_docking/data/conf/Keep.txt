@@ -1,0 +1,3 @@
+center_x = 57.407
+center_y = 20.712
+center_z = 57.171
