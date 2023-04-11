@@ -1,4 +1,4 @@
-# Team-AI-drug
+# Molecule Generation for Drug Discovery with New Transformer Architectures
 
 
 
