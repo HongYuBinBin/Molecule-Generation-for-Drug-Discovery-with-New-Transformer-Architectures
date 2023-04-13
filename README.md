@@ -12,5 +12,5 @@
 
 
 
-# Molecule Generation for Drug Discovery with New Transformer Architectures paper supplement
+# MD-TF paper supplement
 We provide models, data, and code in the paper supplement to reproduce results in the paper manuscript.
