@@ -13,4 +13,4 @@
 
 
 # MD-TF paper supplement
-We provide models, data, and code in the paper supplement to reproduce results in the paper manuscript.
+We provide models, data, and code in the paper supplement to reproduce results in the MD-TF manuscript.
